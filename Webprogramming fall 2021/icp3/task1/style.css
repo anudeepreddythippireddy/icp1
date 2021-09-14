@@ -1,0 +1,12 @@
+header > h1 {
+  text-align: center;
+}
+.selections {
+  text-align: center;
+}
+.selection {
+  display: inline-block;
+}
+#result {
+  text-align: center;
+}
